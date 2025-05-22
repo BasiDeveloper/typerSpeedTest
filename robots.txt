@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yourname.freedomain.com/site_map.xml
+Sitemap: https://monkee-type.netlify.app/site_map.xml
