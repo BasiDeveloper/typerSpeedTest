@@ -57,7 +57,7 @@ function generateWord() {
   delay = 0
   typing = false
   timerValue.style.width = `${cnt}%`
-  typeWrapper.style.translate = `0 ${scrolltop})`
+  typeWrapper.style.translate = `0 ${scrolltop}px`
   input.setAttribute("contenteditable", "true")
   typer.classList.add('show');
   input.focus()
