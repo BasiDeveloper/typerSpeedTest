@@ -13,7 +13,7 @@ body {
 }
 .container {
   width: 60%;
-  min-width: 400px;
+  min-width:360px;
   max-width: 900px;
   height: 100%;
   display: flex;
@@ -198,5 +198,5 @@ body {
 }
 .difficulties button:hover:before {
   width: 100%;
-  opacity: 1
+  opacity: 1;
 }
