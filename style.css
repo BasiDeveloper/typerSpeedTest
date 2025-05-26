@@ -86,6 +86,9 @@ body {
   width: 100%;
   background-color: #5f5d5d;
   height: max-content;
+  position: sticky;
+  bottom: 0px;
+  z-index: 3
 }
 .timerWrapper #timer #value {
   height: 10px;
@@ -198,5 +201,5 @@ body {
 }
 .difficulties button:hover:before {
   width: 100%;
-  opacity: 1;
+  opacity: 1
 }
